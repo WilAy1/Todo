@@ -22,6 +22,12 @@ cargo run -- <command>
 ## Example
 ```bash
 $ cargo run -- todo list
-1 [ ] Buy milk
-2 [x] Finish README
+Pending
+-------
+[ ] 7 "A todo item"
+
+Done
+----
+[✓] 3 "third todo item"
+[✓] 6 "Buy oranges tomorrow"
 ```
